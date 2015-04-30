@@ -40,6 +40,7 @@ public class InsertSort {
 		
 		for (int i=0; i<numtest.length; i++) {
 			
+			System.out.println("Insertion Sort\n");
 			System.out.println(numtest[i].toString());
 			
 		}
